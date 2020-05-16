@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "By The Hero",
+    "name": "Make Difference",
     "slug": "bethehero",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -15,7 +15,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#e02041"
+      "backgroundColor": "#339933"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
